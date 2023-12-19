@@ -9,4 +9,4 @@
 
 # Page inside
   after successful run page look like this
-  ![Alt text](image-1.png)
+  ![Alt text](pic.png)
